@@ -2,7 +2,7 @@
 2020 Fall Information Retrieval and Applications in NTUST
 
 # Homework List
-homework 1: Vector Space Model
+homework 1: Vector Space Model \n
 homework 2: Best Match Model 25
 homework 3: Mean Average Precision
 homework 4: Probabilistic Latent Semantic Analysis (PLSA)
