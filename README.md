@@ -1,5 +1,5 @@
 # information-retrieval
-2020 Fall Information Retrieval and Applications in NTUST
+2020 Fall Information Retrieval and Applications in NTUST <br/>
 You can get the dataset in every [class slide!](http://faculty.csie.ntust.edu.tw/~kychen/courses/2020_Fall_IR/2020_IR.html)
 
 
