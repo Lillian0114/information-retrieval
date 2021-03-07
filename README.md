@@ -6,6 +6,6 @@
 * homework 2 : Best Match Model (BM25, BM25+, BM15...)
 * homework 3 : Mean Average Precision (MAP)
 * homework 4 : Probabilistic Latent Semantic Analysis (PLSA)
-* homework 5 : Query Modeling - Rocchio
-* homework 6 : Transformer-based models - BERT
+* homework 5 : Rocchio
+* homework 6 : BERT
 * final project : Choose one paper to improve effectiveness
